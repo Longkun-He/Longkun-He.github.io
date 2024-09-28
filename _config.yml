@@ -12,7 +12,7 @@ title                    : "Longkun He"
 title_separator          : "-"
 name                     : &name "Longkun He"
 description              : &description "PhD at GaTech"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://longkun-he.github.io"
+url                      : https://longkun-he.github.io # the base hostname & protocol for your site e.g. "https://longkun-he.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "longkun-he.github.io"
 
