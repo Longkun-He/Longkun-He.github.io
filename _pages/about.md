@@ -15,8 +15,8 @@ I am currently working with [Dr. Pengfei Liu](https://liu.eas.gatech.edu/dr-liu/
 
 Education
 ------
-M.S. (2024), Peking University, Environmental Health
-B.S. (2021), Peking University, Resources and Environment Sciences
+● M.S. (2024), Peking University, Environmental Health
+● B.S. (2021), Peking University, Resources and Environment Sciences
 
 Create content & metadata
 ------
