@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the School of Earth and Atmospheric Science in GaTech, working with [Dr. Pengfei Liu](https://liu.eas.gatech.edu/dr-liu/) 
+I am a PhD student in the School of Earth and Atmospheric Science in GaTech, working with [Dr. Pengfei Liu](https://liu.eas.gatech.edu/dr-liu/) I obtained my MS in Environmental Health in Peking University and BS in Resources and Environment Science in Shanghai Jiao Tong University.
 
 A data-driven personal website
 ======
